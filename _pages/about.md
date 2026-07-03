@@ -130,7 +130,7 @@ Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zh
 - *2024.06* &ensp; Outstanding Graduate of Xiamen University
 - *2020 - 2024* &ensp; Merit Student of Xiamen University (Twice)
 - *2020 - 2024* &ensp; First-Class Academic Excellence Scholarship, Xiamen University (Twice)
-- *2020 - 2024* &ensp; Academic Innovation Scholarship, Xiamen University
+- *2022.09* &ensp; Academic Innovation Scholarship, Xiamen University
 - *2020 - 2024* &ensp; Outstanding Communist Youth League Member, Xiamen University (Three Times)
 
 

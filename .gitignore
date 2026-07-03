@@ -9,3 +9,4 @@ push.sh
 Gemfile.lock
 .claude/
 .DS_Store
+assets/js/vendor/
