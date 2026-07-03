@@ -12,14 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-      - name: Build with github-pages gem
+      - name: Build with official pages builder image
         run: |
-          gem install github-pages --no-document
           set +e
-          JEKYLL_ENV=production PAGES_REPO_NWO=${{ github.repository }} jekyll build --trace --verbose > build.log 2>&1
+          docker run --rm \
+            -v "$PWD:/github/workspace" \
+            -e GITHUB_WORKSPACE=/github/workspace \
+            -e INPUT_SOURCE=. \
+            -e INPUT_DESTINATION=./_site \
+            -e INPUT_FUTURE=false \
+            -e INPUT_VERBOSE=true \
+            -e INPUT_TOKEN=${{ github.token }} \
+            -e INPUT_BUILD_REVISION=${{ github.sha }} \
+            ghcr.io/actions/jekyll-build-pages:v1.0.13 > build.log 2>&1
           echo "JEKYLL_EXIT_CODE=$?" >> build.log
           set -e
           tail -40 build.log
@@ -28,10 +33,11 @@ jobs:
         run: |
           git config user.name "debug-bot"
           git config user.email "debug@localhost"
+          sudo chown -R "$(id -u):$(id -g)" . || true
           mv build.log /tmp/build.log
           git checkout --orphan debug-log
           git rm -rf --cached . -q || true
-          git clean -fdx -q || true
+          sudo git clean -fdx -q || true
           cp /tmp/build.log .
           git add build.log
           git commit -m "jekyll build log [skip ci]" -q
