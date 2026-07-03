@@ -60,11 +60,13 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/500x300.png' alt="videosearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**
+[**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://github.com/Stephen-gzk/VideoSearcher)
 
 **Zhenkun Gao**, et al. (First Author)
 
 ***Under Review at EMNLP 2026***
+
+[[Code]](https://github.com/Stephen-gzk/VideoSearcher)
 
 *We propose VideoSearcher, a closed-loop multi-tool agent framework for Video Deep Research, which unifies key-frame localization, local zoom-in, image search, and web search for video clue grounding, open-web retrieval, and evidence integration. We further develop a video-centric training data pipeline and BiSPO, a dual-branch sequence-level RL algorithm that decouples answer-accuracy optimization from tool-use behavior optimization. VideoSearcher-8B reaches an average score of 57.66% on 8 search-oriented benchmarks, outperforming the Qwen3-VL-8B agentic baseline by 15.71% on average.*
 
