@@ -27,7 +27,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 # 🔥 News
 
 - *2026.05* &ensp; **VideoSearcher** is submitted to EMNLP 2026! 🚀
-- *2026.02* &ensp; **MemoryExplorer** is accepted by CVPR 2026! 🎉
+- *2026.02* &ensp; [MemoryExplorer](https://arxiv.org/abs/2601.10744) is accepted by CVPR 2026! 🎉
 - *2026.01* &ensp; [TPRU](https://arxiv.org/abs/2602.18884) is accepted by ICLR 2026! 🎉
 - *2026.01* &ensp; I join [Tencent](https://www.tencent.com/en-us/) as a research intern! 🔬
 - *2024.10* &ensp; I join [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern! 🔬
@@ -76,11 +76,13 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="memoryexplorer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**
+[**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**](https://arxiv.org/abs/2601.10744)
 
 **Zhenkun Gao** (Third Author), et al.
 
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026***
+
+[[Paper]](https://arxiv.org/abs/2601.10744)
 
 *We develop MemoryExplorer, a multimodal LLM-based embodied exploration framework targeting memory maintenance, environment exploration, and decision planning in long-horizon complex tasks. The model is trained with GRPO-based reinforcement learning to actively leverage long-term memory, unifying cognition, memory, and decision-making of embodied agents. I mainly contributed to building the core evaluation pipeline and writing the experimental sections.*
 
