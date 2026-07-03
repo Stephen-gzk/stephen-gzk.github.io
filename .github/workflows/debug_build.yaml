@@ -18,6 +18,10 @@ jobs:
           docker run --rm \
             -v "$PWD:/github/workspace" \
             -e GITHUB_WORKSPACE=/github/workspace \
+            -e GITHUB_REPOSITORY=${{ github.repository }} \
+            -e PAGES_REPO_NWO=${{ github.repository }} \
+            -e GITHUB_TOKEN=${{ github.token }} \
+            -e JEKYLL_ENV=production \
             -e INPUT_SOURCE=. \
             -e INPUT_DESTINATION=./_site \
             -e INPUT_FUTURE=false \
