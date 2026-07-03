@@ -26,25 +26,26 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 🔥 News
 
-- *2026.05* &ensp; **VideoSearcher** is submitted to EMNLP 2026! 🚀
+- *2026.07* &ensp; We release [VideoSearcher](https://github.com/Stephen-gzk/VideoSearcher), the first closed-loop agent for video deep research task! 🎉
 - *2026.02* &ensp; [MemoryExplorer](https://arxiv.org/abs/2601.10744) is accepted by CVPR 2026! 🎉
 - *2026.01* &ensp; [TPRU](https://arxiv.org/abs/2602.18884) is accepted by ICLR 2026! 🎉
 - *2026.01* &ensp; I join [Tencent](https://www.tencent.com/en-us/) as a research intern! 🔬
+- *2025.09* &ensp; [Position paper of Embodied AI](https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g) is accepted by Synced Review! 🎉
 - *2024.10* &ensp; I join [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern! 🔬
 - *2024.09* &ensp; I start my M.S. journey at [ECNU](https://english.ecnu.edu.cn/)! 👨‍🎓
 - *2024.06* &ensp; I graduate from [Xiamen University](https://en.xmu.edu.cn/) as an Outstanding Graduate! 👨‍🎓
+- *2023.07* &ensp; [PSGM](https://link.springer.com/chapter/10.1007/978-3-031-44192-9_30) is accepted by ICANN2023! 🎉
+- *2020.09* &ensp; I start my B.Eng. journey at [Xiamen University](https://en.xmu.edu.cn/)! 👨‍🎓
 
 
 # 📝 Publications
 
-<!-- TODO: Replace images/500x300.png with a teaser figure of each paper, and complete the full author lists. -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt="tpru" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tpru.png' alt="tpru" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**](https://arxiv.org/abs/2602.18884)
 
-**Zhenkun Gao**, et al. (First Author)
+**Zhenkun Gao**, Xuhong Wang, Xin Tan, Yuan Xie
 
 ***International Conference on Learning Representations (ICLR) 2026***
 
@@ -57,14 +58,14 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/500x300.png' alt="videosearcher" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://github.com/Stephen-gzk/VideoSearcher)
 
 **Zhenkun Gao**, et al. (First Author)
 
-***Under Review at EMNLP 2026***
+***Technical Report***
 
 [[Code]](https://github.com/Stephen-gzk/VideoSearcher)
 
@@ -75,12 +76,12 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="memoryexplorer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/memory_explorer.png' alt="memoryexplorer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**](https://arxiv.org/abs/2601.10744)
 
-**Zhenkun Gao** (Third Author), et al.
+Sen Wang, Bangwei Liu, **Zhenkun Gao**, Lizhuang Ma, Xuhong Wang, Yuan Xie, Xin Tan
 
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026***
 
@@ -94,12 +95,8 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 💼 Internships
 
-- *2026.01 - Present* &ensp; **Research Intern**, [Tencent](https://www.tencent.com/en-us/), China
-  - Working on VideoSearcher: open-web retrieval, multimodal tool use, and multi-hop evidence reasoning for video understanding.
-  - Contributed to the team's human-action understanding evaluation for videos, improving Qwen3.5-397B-A17B on camera motion and spatial attributes.
-- *2024.10 - 2026.01* &ensp; **Research Intern**, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China
-  - Completed the research of TPRU, Explore with Long-term Memory, and a survey on trustworthy embodied AI, covering multi-image temporal understanding, embodied exploration, long-term memory modeling, and multimodal reinforcement learning.
-  - Contributed to the Safactory platform and integrated an OpenAI-Gym-style EmbodiedGym into the team's sandbox for automated evaluation in embodied simulators.
+- *2026.01 - Present* &ensp; **Research Intern**, [Tencent](https://www.tencent.com/en-us/) · Mentor Jinlong Peng
+- *2024.10 - 2026.01*&ensp; **Research Intern**, [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Mentor [Xuhong Wang](https://wangxuhongcn.github.io/) 
 
 
 # 📖 Educations
