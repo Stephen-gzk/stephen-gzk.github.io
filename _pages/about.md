@@ -40,6 +40,8 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 📝 Publications
 
+*(\* Equal Contribution)*
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tpru.png' alt="tpru" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,7 +65,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 [**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://github.com/Stephen-gzk/VideoSearcher)
 
-**Zhenkun Gao**, et al. (First Author)
+**Zhenkun Gao\***, Yicheng Bao\*, Jinlong Peng\*, Xueheng Li\*, Theo Huang\*, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie
 
 ***Technical Report***
 
@@ -88,6 +90,24 @@ Sen Wang, Bangwei Liu, **Zhenkun Gao**, Lizhuang Ma, Xuhong Wang, Yuan Xie, Xin 
 [[Paper]](https://arxiv.org/abs/2601.10744)
 
 *We develop MemoryExplorer, a multimodal LLM-based embodied exploration framework targeting memory maintenance, environment exploration, and decision planning in long-horizon complex tasks. The model is trained with GRPO-based reinforcement learning to actively leverage long-term memory, unifying cognition, memory, and decision-making of embodied agents. I mainly contributed to building the core evaluation pipeline and writing the experimental sections.*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Position Paper</div><img src='images/embodied.png' alt="trustworthy-eai" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Towards Safe and Trustworthy Embodied AI: Foundations, Status, and Prospects**](https://openreview.net/pdf?id=Eu6Yt21Alv)
+
+Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zhihao Luo, Sen Wang, Yuqi Zhang, Xuhong Wang, Chaochao Lu, Bowen Zhou
+
+***Position Paper***
+
+[[Paper]](https://openreview.net/pdf?id=Eu6Yt21Alv) [[News]](https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g)
+
+*A position paper on safe and trustworthy Embodied AI (EAI). We deconstruct the workflow of embodied agents into four core stages — instruction understanding, environmental perception, behavior planning, and physical interaction — systematically review the safety and trustworthiness challenges at each stage, and propose a five-level maturity roadmap towards proactive, intrinsically safe EAI systems.*
 
 </div>
 </div>
