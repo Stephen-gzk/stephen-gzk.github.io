@@ -121,19 +121,17 @@ Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zh
 
 # 📖 Educations
 
-- *2024.09 - Present* &ensp; **M.S. Student**, School of Computer Science and Technology, East China Normal University (ECNU), Shanghai, China
-  - Research: Multimodal Large Language Models, Video Deep Research, Agentic RL, and Embodied AI
-- *2020.09 - 2024.06* &ensp; **B.Eng. in Software Engineering**, School of Informatics, Xiamen University (XMU), Xiamen, China
-  - GPA: 3.678/4.00 (Rank: 14/136)
+- *2024.09 - Present* &ensp; **M.S. in Computer Science and Technology**, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/), Shanghai, China
+- *2020.09 - 2024.06* &ensp; **B.Eng. in Software Engineering**, [Xiamen University (XMU)](https://en.xmu.edu.cn/), Xiamen, China · GPA: 3.678/4.00 (Rank: 14/136)
 
 
 # 🏅 Selected Awards
 
 - *2024.06* &ensp; Outstanding Graduate of Xiamen University
-- *2020 - 2024* &ensp; Merit Student of Xiamen University
-- *2020 - 2024* &ensp; First-Class Academic Excellence Scholarship, Xiamen University
+- *2020 - 2024* &ensp; Merit Student of Xiamen University (Twice)
+- *2020 - 2024* &ensp; First-Class Academic Excellence Scholarship, Xiamen University (Twice)
 - *2020 - 2024* &ensp; Academic Innovation Scholarship, Xiamen University
-- *2020 - 2024* &ensp; Outstanding Communist Youth League Member, Xiamen University
+- *2020 - 2024* &ensp; Outstanding Communist Youth League Member, Xiamen University (Three Times)
 
 
 # 💻 Skills
