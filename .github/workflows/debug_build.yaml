@@ -1,0 +1,38 @@
+name: Debug Jekyll Build
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  debug-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - name: Build with github-pages gem
+        run: |
+          gem install github-pages --no-document
+          set +e
+          JEKYLL_ENV=production PAGES_REPO_NWO=${{ github.repository }} jekyll build --trace --verbose > build.log 2>&1
+          echo "JEKYLL_EXIT_CODE=$?" >> build.log
+          set -e
+          tail -40 build.log
+      - name: Publish log to debug branch
+        if: always()
+        run: |
+          git config user.name "debug-bot"
+          git config user.email "debug@localhost"
+          mv build.log /tmp/build.log
+          git checkout --orphan debug-log
+          git rm -rf --cached . -q || true
+          git clean -fdx -q || true
+          cp /tmp/build.log .
+          git add build.log
+          git commit -m "jekyll build log [skip ci]" -q
+          git push -f origin debug-log
