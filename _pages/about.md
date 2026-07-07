@@ -87,7 +87,7 @@ Sen Wang, Bangwei Liu, **Zhenkun Gao**, Lizhuang Ma, Xuhong Wang, Yuan Xie, Xin 
 
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026***
 
-[[Paper]](https://arxiv.org/abs/2601.10744)
+[[Paper]](https://arxiv.org/abs/2601.10744) [[Code]](https://github.com/wangsen99/LMEE)
 
 *We develop MemoryExplorer, a multimodal LLM-based embodied exploration framework targeting memory maintenance, environment exploration, and decision planning in long-horizon complex tasks. The model is trained with GRPO-based reinforcement learning to actively leverage long-term memory, unifying cognition, memory, and decision-making of embodied agents. I mainly contributed to building the core evaluation pipeline and writing the experimental sections.*
 
