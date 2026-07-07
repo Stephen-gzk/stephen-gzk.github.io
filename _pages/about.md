@@ -26,7 +26,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 🔥 News
 
-- *2026.07* &ensp; We release [VideoSearcher](https://github.com/Stephen-gzk/VideoSearcher), the first closed-loop agent for video deep research task! 🎉
+- *2026.07* &ensp; We release [VideoSearcher](https://arxiv.org/abs/2607.02927), the first closed-loop agent for video deep research task! 🎉
 - *2026.02* &ensp; [MemoryExplorer](https://arxiv.org/abs/2601.10744) is accepted by CVPR 2026! 🎉
 - *2026.01* &ensp; [TPRU](https://arxiv.org/abs/2602.18884) is accepted by ICLR 2026! 🎉
 - *2026.01* &ensp; I join [Tencent](https://www.tencent.com/en-us/) as a research intern! 🔬
@@ -63,13 +63,13 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://github.com/Stephen-gzk/VideoSearcher)
+[**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2607.02927)
 
 **Zhenkun Gao\***, Yicheng Bao\*, Jinlong Peng\*, Xueheng Li\*, Theo Huang\*, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie
 
 ***Technical Report***
 
-[[Code]](https://github.com/Stephen-gzk/VideoSearcher)
+[[Paper]](https://arxiv.org/abs/2607.02927) [[Code]](https://github.com/Stephen-gzk/VideoSearcher)
 
 *We propose VideoSearcher, a closed-loop multi-tool agent framework for Video Deep Research, which unifies key-frame localization, local zoom-in, image search, and web search for video clue grounding, open-web retrieval, and evidence integration. We further develop a video-centric training data pipeline and BiSPO, a dual-branch sequence-level RL algorithm that decouples answer-accuracy optimization from tool-use behavior optimization. VideoSearcher-8B reaches an average score of 57.66% on 8 search-oriented benchmarks, outperforming the Qwen3-VL-8B agentic baseline by 15.71% on average.*
 
@@ -115,7 +115,7 @@ Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zh
 
 # 💼 Internships
 
-- *2026.01 - Present* &ensp; **Research Intern**, [Tencent](https://www.tencent.com/en-us/) · Mentor Jinlong Peng
+- *2026.01 - Present* &ensp; **Research Intern**, [Tencent](https://www.tencent.com/en-us/) · Mentor [Jinlong Peng](https://pjl1995.github.io/)
 - *2024.10 - 2026.01*&ensp; **Research Intern**, [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Mentor [Xuhong Wang](https://wangxuhongcn.github.io/) 
 
 
