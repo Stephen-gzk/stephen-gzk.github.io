@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+
   - title: "Internships"
     url: "/#-internships"
 
