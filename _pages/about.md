@@ -26,6 +26,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 🔥 News
 
+- *2026.08* &ensp; Two papers are accepted by EMNLP 2026 — [VideoSearcher](https://arxiv.org/abs/2607.02927) to the **Main Conference** and [LLaVA-RadZ](https://arxiv.org/abs/2503.07487) to **Findings**! 🎉
 - *2026.07* &ensp; We release [VideoSearcher](https://arxiv.org/abs/2607.02927), the first closed-loop agent for video deep research task! 🎉
 - *2026.02* &ensp; [MemoryExplorer](https://arxiv.org/abs/2601.10744) is accepted by CVPR 2026! 🎉
 - *2026.01* &ensp; [TPRU](https://arxiv.org/abs/2602.18884) is accepted by ICLR 2026! 🎉
@@ -60,14 +61,14 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2607.02927)
 
 **Zhenkun Gao\***, Yicheng Bao\*, Jinlong Peng\*, Xueheng Li\*, Theo Huang\*, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie
 
-***Technical Report***
+***Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026***
 
 [[Paper]](https://arxiv.org/abs/2607.02927) [[Code]](https://github.com/Stephen-gzk/VideoSearcher)
 
@@ -90,6 +91,24 @@ Sen Wang, Bangwei Liu, **Zhenkun Gao**, Lizhuang Ma, Xuhong Wang, Yuan Xie, Xin 
 [[Paper]](https://arxiv.org/abs/2601.10744) [[Code]](https://github.com/wangsen99/LMEE)
 
 *We develop MemoryExplorer, a multimodal LLM-based embodied exploration framework targeting memory maintenance, environment exploration, and decision planning in long-horizon complex tasks. The model is trained with GRPO-based reinforcement learning to actively leverage long-term memory, unifying cognition, memory, and decision-making of embodied agents. I mainly contributed to building the core evaluation pipeline and writing the experimental sections.*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/llava_radz.png' alt="llava-radz" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**](https://arxiv.org/abs/2503.07487)
+
+Bangyan Li\*, Wenxuan Huang\*, **Zhenkun Gao\***, Yeqiang Wang, Yunhang Shen, Jingzhong Lin, Ling You, Yuxiang Shen, Shaohui Lin, Wanli Ouyang, Yuling Sun
+
+***Findings of the Association for Computational Linguistics: EMNLP 2026***
+
+[[Paper]](https://arxiv.org/abs/2503.07487)
+
+*We propose LLaVA-RadZ, a simple yet effective framework for zero-shot medical disease recognition that fully exploits existing MLLM features. We design an end-to-end Decoding-Side Feature Alignment Training (DFAT) strategy that leverages the MLLM decoder architecture with modality-specific tokens, and a Domain Knowledge Anchoring Module (DKAM) that taps into the intrinsic medical knowledge of large models to mitigate the category semantic gap in image-text alignment. LLaVA-RadZ significantly outperforms traditional MLLMs in zero-shot disease recognition and achieves performance comparable to well-established, highly-optimized CLIP-based approaches.*
 
 </div>
 </div>
