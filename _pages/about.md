@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.S. student at the [School of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). Before that, I received my B.Eng. degree in Software Engineering from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://en.xmu.edu.cn/) in 2024. Currently, I am a research intern at [Tencent](https://www.tencent.com/en-us/). Previously, I spent a wonderful time at [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern.
+I am a second-year M.S. student at the [School of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University (ECNU)](https://english.ecnu.edu.cn/), advised by Prof. [Yuan Xie](https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp). Before that, I received my B.Eng. degree in Software Engineering from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University (XMU)](https://en.xmu.edu.cn/) in 2024. Currently, I am a research intern at [Tencent](https://www.tencent.com/en-us/). Previously, I spent a wonderful time at [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern.
 
 My research interest mainly includes **Multimodal Large Language Models (MLLMs)** and **Reinforcement Learning**. Recently, I focus on exploring **Video Deep Research**, **Agentic RL**, and **Embodied AI**, aiming to empower MLLMs with stronger temporal understanding, multi-tool agentic reasoning, and decision-making abilities in real-world scenarios.
 
