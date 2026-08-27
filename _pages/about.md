@@ -66,7 +66,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 [**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2607.02927)
 
-**Zhenkun Gao\***, Yicheng Bao\*, Jinlong Peng\*, Xueheng Li\*, Theo Huang\*, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie
+**Zhenkun Gao\***, Yicheng Bao\*, Jinlong Peng\*, Xueheng Li\*, Suyuan Huang\*, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie
 
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026***
 
