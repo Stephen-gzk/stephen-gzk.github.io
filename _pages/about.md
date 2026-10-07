@@ -44,7 +44,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 *(\* Equal Contribution)*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tpru.png' alt="tpru" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img class='paper-image-with-margin' src='images/tpru.png' alt="tpru" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**](https://arxiv.org/abs/2602.18884)
@@ -62,7 +62,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img class='paper-image-with-margin' src='images/videosearcher.png' alt="videosearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2607.02927)
@@ -80,7 +80,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/memory_explorer.png' alt="memoryexplorer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img class='paper-image-with-margin' src='images/memory_explorer.png' alt="memoryexplorer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**](https://arxiv.org/abs/2601.10744)
@@ -98,7 +98,7 @@ Sen Wang, Bangwei Liu, **Zhenkun Gao**, Lizhuang Ma, Xuhong Wang, Yuan Xie, Xin 
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/llava_radz.png' alt="llava-radz" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img class='paper-image-with-margin' src='images/llava_radz.png' alt="llava-radz" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**](https://arxiv.org/abs/2503.07487)
@@ -116,7 +116,7 @@ Bangyan Li\*, Wenxuan Huang\*, **Zhenkun Gao\***, Yeqiang Wang, Yunhang Shen, Ji
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Position Paper</div><img src='images/embodied.png' alt="trustworthy-eai" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Position Paper</div><img class='paper-image-with-margin' src='images/embodied.png' alt="trustworthy-eai" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Towards Safe and Trustworthy Embodied AI: Foundations, Status, and Prospects**](https://openreview.net/pdf?id=Eu6Yt21Alv)
