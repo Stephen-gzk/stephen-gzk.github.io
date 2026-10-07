@@ -44,42 +44,6 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 *(\* Equal Contribution)*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/watch_think_interact.png' alt="Watch-Think-Interact framework for streaming video reasoning" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning**](https://arxiv.org/abs/2609.37035)
-
-Ziheng Huang\*, Yicheng Bao\*, Xueheng Li\*, **Zhenkun Gao\***, Bangwei Liu\*, Kunquan Li, Yuxiang Shen, Bangyan Li, Xuejiao Wang, Changbo Wang, Gaoqi He
-
-***arXiv Preprint, 2026***
-
-[[Paper]](https://arxiv.org/abs/2609.37035)
-
-*We propose Watch-Think-Interact (WTI), a closed-loop framework for long-horizon multi-turn streaming video reasoning that combines compact time-indexed memory with selective visual recall. The agent learns when to answer, wait for future evidence, or revisit an observed video interval. We construct WTI-82K with 82,335 timed questions across 4,812 interaction trajectories and introduce Stream-GDPO to optimize outcome, format, recall, and memory rewards over complete multi-turn rollouts. WTI achieves 83.3% on StreamingBench and 73.6% on OVO-Bench, setting a new open-source state of the art.*
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/mandela_bench.png' alt="Mandela-Bench: recognizing edited canonical images" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Mandela-Bench: Multimodal Models Remember Canonical Images Instead of Seeing Them**](https://arxiv.org/abs/2609.32763)
-
-Yicheng Bao\*, **Zhenkun Gao\***, Xiahui Guo\*, Mingqian Yang, Xueheng Li, Bangwei Liu, Mingang Chen, Lijun Li, Xuhong Wang, Xin Tan
-
-***arXiv Preprint, 2026***
-
-[[Paper]](https://arxiv.org/abs/2609.32763)
-
-*We introduce Mandela-Bench to evaluate whether multimodal models can use world knowledge to verify edits to familiar canonical images. The benchmark contains 1,359 knowledge-only forgeries, 148 anchor-free edited controls, and 474 untouched originals, evaluating both forgery detection and fact-grounded explanations. Across 36 models, we find that recognition can bias verification toward remembered images: models still name removed public figures in up to 72.7% of responses, and only one model provides knowledge-grounded detection on at least half of the forged images under explicit verification prompts.*
-
-</div>
-</div>
-
----
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tpru.png' alt="tpru" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -169,6 +133,43 @@ Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zh
 </div>
 
 
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/watch_think_interact.png' alt="Watch-Think-Interact framework for streaming video reasoning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning**](https://arxiv.org/abs/2609.37035)
+
+Ziheng Huang\*, Yicheng Bao\*, Xueheng Li\*, **Zhenkun Gao\***, Bangwei Liu\*, Kunquan Li, Yuxiang Shen, Bangyan Li, Xuejiao Wang, Changbo Wang, Gaoqi He
+
+***arXiv Preprint, 2026***
+
+[[Paper]](https://arxiv.org/abs/2609.37035)
+
+*We propose Watch-Think-Interact (WTI), a closed-loop framework for long-horizon multi-turn streaming video reasoning that combines compact time-indexed memory with selective visual recall. The agent learns when to answer, wait for future evidence, or revisit an observed video interval. We construct WTI-82K with 82,335 timed questions across 4,812 interaction trajectories and introduce Stream-GDPO to optimize outcome, format, recall, and memory rewards over complete multi-turn rollouts. WTI achieves 83.3% on StreamingBench and 73.6% on OVO-Bench, setting a new open-source state of the art.*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/mandela_bench.png' alt="Mandela-Bench: recognizing edited canonical images" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Mandela-Bench: Multimodal Models Remember Canonical Images Instead of Seeing Them**](https://arxiv.org/abs/2609.32763)
+
+Yicheng Bao\*, **Zhenkun Gao\***, Xiahui Guo\*, Mingqian Yang, Xueheng Li, Bangwei Liu, Mingang Chen, Lijun Li, Xuhong Wang, Xin Tan
+
+***arXiv Preprint, 2026***
+
+[[Paper]](https://arxiv.org/abs/2609.32763)
+
+*We introduce Mandela-Bench to evaluate whether multimodal models can use world knowledge to verify edits to familiar canonical images. The benchmark contains 1,359 knowledge-only forgeries, 148 anchor-free edited controls, and 474 untouched originals, evaluating both forgery detection and fact-grounded explanations. Across 36 models, we find that recognition can bias verification toward remembered images: models still name removed public figures in up to 72.7% of responses, and only one model provides knowledge-grounded detection on at least half of the forged images under explicit verification prompts.*
+
+</div>
+</div>
+
+
 # 📅 Academic Services
 
 - Conference Reviewer: ICML 2026, ECCV 2026, CVPR 2026, ICLR 2026, ICCV 2025
@@ -188,6 +189,7 @@ Xin Tan, Bangwei Liu, Yicheng Bao, Qijian Tian, **Zhenkun Gao**, Xiongbin Wu, Zh
 
 # 🏅 Selected Awards
 
+- *2026.09* &ensp; **China National Scholarship**
 - *2024.06* &ensp; Outstanding Graduate of Xiamen University
 - *2020 - 2024* &ensp; Merit Student of Xiamen University (Twice)
 - *2020 - 2024* &ensp; First-Class Academic Excellence Scholarship, Xiamen University (Twice)
