@@ -26,6 +26,7 @@ My research interest mainly includes **Multimodal Large Language Models (MLLMs)*
 
 # 🔥 News
 
+- *2026.10* &ensp; [LookWise](https://arxiv.org/abs/2603.00171) is accepted by **IEEE TCSVT**! 🎉
 - *2026.09* &ensp; I am honored to receive the **China National Scholarship**! 🎉
 - *2026.08* &ensp; Two papers are accepted by EMNLP 2026 — [VideoSearcher](https://arxiv.org/abs/2607.02927) to the **Main Conference** and [LLaVA-RadZ](https://arxiv.org/abs/2503.07487) to **Findings**! 🎉
 - *2026.07* &ensp; We release [VideoSearcher](https://arxiv.org/abs/2607.02927), the first closed-loop agent for video deep research task! 🎉
@@ -110,6 +111,24 @@ Bangyan Li\*, Wenxuan Huang\*, **Zhenkun Gao\***, Yeqiang Wang, Yunhang Shen, Ji
 [[Paper]](https://arxiv.org/abs/2503.07487)
 
 *We propose LLaVA-RadZ, a simple yet effective framework for zero-shot medical disease recognition that fully exploits existing MLLM features. We design an end-to-end Decoding-Side Feature Alignment Training (DFAT) strategy that leverages the MLLM decoder architecture with modality-specific tokens, and a Domain Knowledge Anchoring Module (DKAM) that taps into the intrinsic medical knowledge of large models to mitigate the category semantic gap in image-text alignment. LLaVA-RadZ significantly outperforms traditional MLLMs in zero-shot disease recognition and achieves performance comparable to well-established, highly-optimized CLIP-based approaches.*
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/lookwise.png' alt="LookWise framework for adaptive fine-grained visual reasoning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**LookWise: Knowing When and Where to Look for Fine-Grained Visual Reasoning in Multimodal Large Language Models**](https://arxiv.org/abs/2603.00171)
+
+Yuxiang Shen\*, Hailong Huang\*, **Zhenkun Gao\***, Xueheng Li, Man Zhou, Chengjun Xie, Haoxuan Che, Xuanhua He, Jie Zhang
+
+***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026***
+
+[[Paper]](https://arxiv.org/abs/2603.00171) [[Code]](https://github.com/Xiaoxiang100/LookWise)
+
+*We propose LookWise, a training-free framework for adaptive fine-grained visual reasoning. A confidence-based module decides when additional visual evidence is needed, while semantic-guided localization determines where to inspect, reducing redundant cropping and improving target grounding. LookWise improves accuracy on fine-grained and high-resolution visual reasoning benchmarks across MLLM backbones, while achieving approximately 4× faster inference than the search-based method ZoomEye.*
 
 </div>
 </div>
